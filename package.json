@@ -1,0 +1,26 @@
+{
+  "name": "react-native-loading-bubbles",
+  "version": "0.0.1",
+  "description": "react native package of loading balls. you can use it in your app to make more responsive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammad-kumail/react-native-loading-bubbles.git"
+  },
+  "keywords": [
+    "react-native-bubles",
+    "animated-bubbles",
+    "react-native-loading-bubbles",
+    "bubbles",
+    "bubbles-indicator"
+  ],
+  "author": "Kumail Baloch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammad-kumail/react-native-loading-bubbles/issues"
+  },
+  "homepage": "https://github.com/muhammad-kumail/react-native-loading-bubbles#readme"
+}
